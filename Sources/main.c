@@ -5,7 +5,7 @@
 #include "..\Headers\Convert.h"
 #include "..\Headers\Mstring.h"
 
-#define MAX 20
+#define MAX 50
 
 void Calc(void)
 {
